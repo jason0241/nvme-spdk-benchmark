@@ -71,30 +71,3 @@ This project demonstrates:
 ## Troubleshooting
 
 See [docs/troubleshooting.md](docs/troubleshooting.md) for common issues and solutions.
-
-
-
-
-
-
-## Step 6: Push to GitHub  [header-7](#header-7)
-  
-```bash  
-# Add all files  
-git add .  
-  
-# Commit with descriptive message  
-git commit -m "Initial commit: SPDK NVMe-over-PCIe Loopback implementation  
-  
-- Complete NVMe-oF TCP loopback setup  
-- Performance testing with 5K+ IOPS achieved  
-- Comprehensive documentation and automation scripts  
-- Troubleshooting guide for common issues"  
-  
-# Create GitHub repository (via GitHub CLI or web interface)  
-gh repo create spdk-nvme-loopback-project --public  
-  
-# Push to GitHub  
-git branch -M main  
-git remote add origin https://github.com/yourusername/spdk-nvme-loopback-project.git  
-git push -u origin main  
