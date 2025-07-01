@@ -69,4 +69,4 @@ This project demonstrates:
 
 ## Troubleshooting
 
-See [docs/troubleshooting.md](docs/troubleshooting.md) for common issues and solutions.
+See [troubleshooting.md](troubleshooting.md) for common issues and solutions.
